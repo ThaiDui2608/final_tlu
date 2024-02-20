@@ -1,0 +1,28 @@
+.sider {
+  margin: 8px;
+  border-radius: 4px 0 0 4px;
+}
+
+.sider ul li {
+  color: #38383d;
+}
+
+.sider hr {
+  color: #f7f7f7;
+}
+
+.sider .star_yellow {
+  color: #fdd835;
+}
+
+.sider .star_grey {
+  color: #b8b8b8;
+}
+
+.ant-pagination-item {
+  background-color: #0b74e5 !important;
+}
+
+.ant-pagination-item a {
+  color: #fff !important;
+}
