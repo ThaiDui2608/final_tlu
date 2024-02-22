@@ -1,0 +1,42 @@
+.buy_now_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.buy_now_container button {
+  margin-bottom: 10px;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.buy_now_1 {
+  background-color: #ff424e;
+  color: #fff;
+  border: none;
+}
+
+.buy_now_2,
+.buy_now_3 {
+  border: 1px solid #0a68ff;
+  background-color: #fff;
+  color: #0a68ff;
+}
+
+table {
+  width: 100%;
+}
+
+tr td:first-child {
+  color: #808089;
+  font-size: 14px;
+  line-height: 21px;
+  width: 50%;
+}
+
+tr td:nth-child(2) {
+  color: #27272a;
+  font-size: 14px;
+  line-height: 21px;
+}

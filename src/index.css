@@ -1,6 +1,8 @@
 @import url("./assets/style/header.css");
 @import url("./assets/style/singleBook.css");
 @import url("./assets/style/sider.css");
+@import url("./assets/style/bookspages.css");
+@import url('./assets/style/footer.css');
 
 * {
   font-family: "Inter" sans-serif;
@@ -20,4 +22,3 @@ ul {
   margin: 0;
   padding: 0;
 }
-

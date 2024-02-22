@@ -2,14 +2,9 @@ import React from "react";
 import logo from "../assets/img/Link → 4e6e925ea554fc698123ea71ed7bda26.png.png";
 import { Input } from "antd";
 import homeImg from "../assets/img/home.png";
-import {
-    SearchOutlined,
-    ArrowDownOutlined,
-    StarFilled,
-  } from "@ant-design/icons";
+import { SearchOutlined } from "@ant-design/icons";
 import accountImg from "../assets/img/account.png";
 import cartImg from "../assets/img/cart.png";
-
 
 const Header = () => {
   return (
